@@ -1,0 +1,18 @@
+[road]
+You are on a road that heads west and east of your position.
+Which way will you go?
+#1 west Go West
+#2 east Go East
+#3 roadwait Wait for something to happen
+
+[west]
+A spider!!
+#1 fightspider Fight the spider
+
+[east]
+A dragon!
+#1 endofgame Stare in awe at the dragon
+
+[roadwait]
+Very boring.
+#1 road 
