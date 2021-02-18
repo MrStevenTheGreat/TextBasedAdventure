@@ -8,11 +8,23 @@ Which way will you go?
 [west]
 A spider!!
 #1 fightspider Fight the spider
+#2 road Slowly back away
 
 [east]
 A dragon!
 #1 endofgame Stare in awe at the dragon
+#2 road Run away!
 
 [roadwait]
 Very boring.
 #1 road 
+
+[fightspider]
+You run towards the spider with your bare hands!
+#1 endofgame Kick the spider
+#2 endofgame Punch the spider
+
+[endofgame]
+You die. a horrible death, like really gory still of nasty icky death. There is no save file. 
+#1 road Try again
+#2 road Give up? just close the program, i havent figured out how to end this yet.
